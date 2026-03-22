@@ -10,10 +10,7 @@ export default function () {
             <main className="flex-1 p-4">
                 <div className="flex flex-col items-center">
                     <div className="flex max-w-200 flex-col gap-12">
-                        <div className="flex flex-col gap-6">
-                            <Header />
-                            <IntroductionSection />
-                        </div>
+                        <IntroductionSection />
 
                         <CareerSection />
 

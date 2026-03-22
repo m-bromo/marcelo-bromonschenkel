@@ -1,15 +1,19 @@
+import Header from "./Header";
+
 export default function () {
     return (
-        <section>
+        <section className="flex flex-col gap-6">
+            <Header />
+
             <p className="text-justify text-white">
-                &emsp;Sou desenvolvedor full stack, apaixonado por jogos,
-                ciência e tecnologia. Atualmente, atuo na Tiplan, trabalhando no
-                SIARM (Sistema Integrado de Arrecadação Municipal)
+                Olá! Meu nome é Marcelo Bromonschenkel. Sou um Desenvolvedor
+                Full-stack na Tiplan, atualmente trabalhando na equipe do
+                Siarmnet (Sistema Integrado de Arrecadação Municipal).
                 <br />
-                &emsp;Tenho grande interesse por computação de forma geral e
-                gosto de desenvolver projetos pessoais que exploram novas
-                ideias. Também aprecio filmes cult e sou entusiasta de RPGs de
-                mesa.
+                Adoro criar projetos pessoais para testar novas ideias e
+                aprender coisas novas. Quando não estou programando ou lendo
+                sobre ciência, você me encontra rolando os dados em uma boa
+                campanha de RPG de mesa.
             </p>
         </section>
     );
