@@ -6,9 +6,9 @@ export default function () {
             <Header />
 
             <p className="text-justify text-white">
-                Olá! Meu nome é Marcelo Bromonschenkel. Sou um Desenvolvedor
-                Full-stack na Tiplan, atualmente trabalhando na equipe do
-                Siarmnet (Sistema Integrado de Arrecadação Municipal).
+                Me chamo Marcelo Bromonschenkel. Sou um Desenvolvedor Full-stack
+                na Tiplan, atualmente trabalhando na equipe do Siarmnet (Sistema
+                Integrado de Arrecadação Municipal).
                 <br />
                 Adoro criar projetos pessoais para testar novas ideias e
                 aprender coisas novas. Quando não estou programando ou lendo

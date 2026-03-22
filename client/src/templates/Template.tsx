@@ -11,7 +11,7 @@ export default function ({ children }: props) {
         <div className="font-geist bg-background font-n flex min-h-screen w-full flex-col gap-8">
             <Navbar />
 
-            {children}
+            <div className="flex-1">{children}</div>
 
             <Footer />
         </div>
