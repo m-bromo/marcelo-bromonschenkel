@@ -22,7 +22,7 @@ export default function ({ job }: props) {
 
                 <p className="text-sm">{job.description}</p>
 
-                <ul className="flex flex-row gap-4">
+                <ul className="flex flex-row flex-wrap gap-4">
                     {job.competences.map((item) => (
                         <li className="flex rounded-2xl bg-purple-900/30 p-2 text-xs">
                             {item}

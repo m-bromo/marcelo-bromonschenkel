@@ -8,7 +8,7 @@ interface props {
 
 export default function ({ children }: props) {
     return (
-        <div className="flex flex-col font-geist w-screen min-h-screen bg-background gap-8 font-n">
+        <div className="font-geist bg-background font-n flex min-h-screen w-full flex-col gap-8">
             <Navbar />
 
             {children}
