@@ -7,7 +7,7 @@ export default function () {
         {
             title: "Estagiário de Desenvolvimento de Softwate",
             description:
-                "Sou parte do time do SIARMNET, onde mantenho e desenvolvo o sistema de arrecadação municipal.",
+                "Faço parte do time do SIARMNET, atuando na manutenção e desenvolvimento do sistema de arrecadação municipal, com foco em melhorias contínuas, correção de problemas e implementação de novas funcionalidades.",
             workPlace: "Tiplan",
             startDate: new Date("2025-12-01"),
             endDate: null,
@@ -16,7 +16,7 @@ export default function () {
         {
             title: "Estagiário de Análise de Dados",
             description:
-                "Trabalhei na equipe do Processo Judicial Eletrônico, onde recolhia e analisava dados",
+                "Atuei na equipe do Processo Judicial Eletrônico, realizando a coleta, tratamento e análise de dados para geração de insights estratégicos. Desenvolvi dashboards interativos no Power BI, facilitando a visualização de indicadores e apoiando a tomada de decisão.",
             workPlace: "Tribunal de Justiça do Estado do Rio de Janeiro",
             startDate: new Date("2025-09-01"),
             endDate: new Date("2025-11-30"),
