@@ -29,7 +29,7 @@ export default function () {
 
     return (
         <Section header="Habilidades Técnicas">
-            <ul className="grid auto-cols-fr grid-flow-row grid-cols-2 gap-4">
+            <ul className="flex auto-cols-fr grid-flow-row grid-cols-2 flex-col gap-4 md:grid">
                 {skills.map((item) => (
                     <SkillCard skill={item} />
                 ))}
